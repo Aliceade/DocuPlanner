@@ -132,6 +132,11 @@ nav a:hover {
   text-decoration: underline;
   color: white;
 }
+
+option{
+  color: black;
+
+}
 /*icon cards section ends here*/
 
 .logo-list {
